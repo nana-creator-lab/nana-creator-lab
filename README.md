@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nana-creator-lab
-- 👀 I’m interested in data analytics, human behaviour and socil enviroments.
+- 👀 I’m interested in data analytics, human behaviour and impact of social media in millenials.
 - 🌱 I’m currently learning R programming, Phyton, SQL and Power BI.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email
